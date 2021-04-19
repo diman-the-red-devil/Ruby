@@ -1,4 +1,4 @@
-# Ruby / Урок 02. Структура программы
+# Ruby / Урок 02. Установка
 
 ## Цель
 
@@ -16,19 +16,17 @@
 ## Содержание
 
 ### Лекция [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](1.Лекция.md)
+
+[1. Реализация Ruby](1.Лекция.md#1.-Реализация-Ruby)
+
+[2. Установка Ruby на Windows](1.Лекция.md#2.-Установка-Ruby-на-Windows)
+
+[3. Проверка после установки Ruby](1.Лекция.md#3.-Проверка-после-установки-Ruby)
+
+[4. Менеджер пакетов RubyGems](1.Лекция.md#4.-Менеджер-пакетов-RubyGems)
            
-[1. Язык программирования Java (JDK)](1.Лекция.md#1.-Ruby)
+[5. Интерактивная командная оболочка Interactive Ruby Shell)](1.Лекция.md#5.-Интерактивная-командная-оболочка-Interactive-Ruby-Shell)
 
-### Практика [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](2.Практика.md)
+### Задание [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](2.Задание.md)
 
-[1. Java](2.Практика.md#1.-Java)
-
-### Задание [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](3.Задание.md)
-
-### Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](4.Ссылки.md)
-
-Файлы Ruby .rb
-
-Запуск из терминала 
-
-C:\Users\diman\Desktop\Ruby\Урок 02. Структура программы\_Sample_01>ruby main.rb
+### Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](3.Ссылки.md)
