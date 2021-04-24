@@ -1,2 +1,5 @@
-puts "This Is A String"
-puts "This Is A String"
+def hello_world
+  puts "Hello, world!"
+end
+
+hello_world
