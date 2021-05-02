@@ -19,7 +19,7 @@ Ruby / Урок 01. Введение
 
 # Содержание
 
-### Лекция [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](1.Лекция.md)
+## Лекция [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](1.Лекция.md)
            
 [1. Ruby](1.Лекция.md#1.-Ruby)
 
@@ -33,4 +33,4 @@ Ruby / Урок 01. Введение
 
 [6. Проекты на Ruby](1.Лекция.md#6.-Проекты-на-Ruby)
 
-### Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](2.Ссылки.md)
+## Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](2.Ссылки.md)
