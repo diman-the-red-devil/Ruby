@@ -41,6 +41,6 @@ Ruby / Урок 03.01. Переменные
 
 [5. Константы](2.Практика.md#5.-Константы)
 
-## Задание [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](3.Задание.md)
+## Задание [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](3.%20Задание.md)
 
-## Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](4.Ссылки.md)
+## Ссылки [![Перейти](https://img.shields.io/badge/-%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue)](4.%20Ссылки.md)
